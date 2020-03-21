@@ -1,0 +1,9 @@
+D:\project\LR\力软敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Log\bin\Debug\Learun.Loger.dll
+D:\project\LR\力软敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Log\bin\Debug\Learun.Loger.pdb
+D:\project\LR\力软敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Log\bin\Debug\log4net.dll
+D:\project\LR\力软敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Log\bin\Debug\log4net.xml
+D:\project\LR\力软敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Log\obj\Debug\Learun.Loger.csprojAssemblyReference.cache
+D:\project\LR\力软敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Log\obj\Debug\Learun.Loger.csproj.CoreCompileInputs.cache
+D:\project\LR\力软敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Log\obj\Debug\Learun.Loger.csproj.CopyComplete
+D:\project\LR\力软敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Log\obj\Debug\Learun.Loger.dll
+D:\project\LR\力软敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Log\obj\Debug\Learun.Loger.pdb

@@ -1,0 +1,16 @@
+D:\project\LR\力软敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Ioc\bin\Debug\Learun.Ioc.dll
+D:\project\LR\力软敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Ioc\bin\Debug\Learun.Ioc.pdb
+D:\project\LR\力软敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\project\LR\力软敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\project\LR\力软敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Ioc\bin\Debug\Microsoft.Practices.Unity.dll
+D:\project\LR\力软敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\project\LR\力软敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\project\LR\力软敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Ioc\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\project\LR\力软敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Ioc\bin\Debug\Microsoft.Practices.Unity.xml
+D:\project\LR\力软敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Ioc\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\project\LR\力软敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Ioc\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\project\LR\力软敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Ioc\obj\Debug\Learun.Ioc.csproj.CoreCompileInputs.cache
+D:\project\LR\力软敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Ioc\obj\Debug\Learun.Ioc.csproj.CopyComplete
+D:\project\LR\力软敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Ioc\obj\Debug\Learun.Ioc.dll
+D:\project\LR\力软敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Ioc\obj\Debug\Learun.Ioc.pdb
+D:\project\LR\力软敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Ioc\obj\Debug\Learun.Ioc.csprojAssemblyReference.cache

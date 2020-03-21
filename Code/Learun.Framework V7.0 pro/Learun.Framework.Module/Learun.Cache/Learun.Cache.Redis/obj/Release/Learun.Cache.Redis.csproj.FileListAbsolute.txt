@@ -1,0 +1,17 @@
+D:\project\LR\力软敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Cache\Learun.Cache.Redis\bin\Release\Learun.Cache.Redis.dll
+D:\project\LR\力软敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Cache\Learun.Cache.Redis\bin\Release\Learun.Cache.Redis.pdb
+D:\project\LR\力软敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Cache\Learun.Cache.Redis\bin\Release\Learun.Cache.Base.dll
+D:\project\LR\力软敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Cache\Learun.Cache.Redis\bin\Release\ServiceStack.Common.dll
+D:\project\LR\力软敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Cache\Learun.Cache.Redis\bin\Release\ServiceStack.Interfaces.dll
+D:\project\LR\力软敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Cache\Learun.Cache.Redis\bin\Release\ServiceStack.Redis.dll
+D:\project\LR\力软敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Cache\Learun.Cache.Redis\bin\Release\ServiceStack.Text.dll
+D:\project\LR\力软敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Cache\Learun.Cache.Redis\bin\Release\Learun.Cache.Base.pdb
+D:\project\LR\力软敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Cache\Learun.Cache.Redis\bin\Release\ServiceStack.Common.xml
+D:\project\LR\力软敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Cache\Learun.Cache.Redis\bin\Release\ServiceStack.Interfaces.xml
+D:\project\LR\力软敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Cache\Learun.Cache.Redis\bin\Release\ServiceStack.Redis.xml
+D:\project\LR\力软敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Cache\Learun.Cache.Redis\bin\Release\ServiceStack.Text.xml
+D:\project\LR\力软敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Cache\Learun.Cache.Redis\obj\Release\Learun.Cache.Redis.csprojAssemblyReference.cache
+D:\project\LR\力软敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Cache\Learun.Cache.Redis\obj\Release\Learun.Cache.Redis.csproj.CoreCompileInputs.cache
+D:\project\LR\力软敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Cache\Learun.Cache.Redis\obj\Release\Learun.Cache.Redis.csproj.CopyComplete
+D:\project\LR\力软敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Cache\Learun.Cache.Redis\obj\Release\Learun.Cache.Redis.dll
+D:\project\LR\力软敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Cache\Learun.Cache.Redis\obj\Release\Learun.Cache.Redis.pdb

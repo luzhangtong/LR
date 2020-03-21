@@ -1,0 +1,19 @@
+﻿@{
+    ViewBag.Title = "原则管理";
+    Layout = "~/Views/Shared/_Form.cshtml";
+}
+<div class="lr-form-wrap">
+    <div class="col-xs-12 lr-form-item"  data-table="Principle" >
+        <div class="lr-form-item-title">原则名称<font face="宋体">*</font></div>
+        <input id="F_PrincipleName" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+    </div>
+    <div class="col-xs-12 lr-form-item"  data-table="Principle" >
+        <div class="lr-form-item-title">原则内容<font face="宋体">*</font></div>
+        <input id="F_PrincipleContent" type="text" class="form-control" isvalid="yes" checkexpession="NotNull" />
+    </div>
+    <div class="col-xs-12 lr-form-item"  data-table="Principle" >
+        <div class="lr-form-item-title">原则分类<font face="宋体">*</font></div>
+        <div id="F_PrincipleClassification" isvalid="yes" checkexpession="NotNull" ></div>
+    </div>
+</div>
+@Html.AppendJsFile("/Areas/LR_Principle/Views/Principle/Form.js")

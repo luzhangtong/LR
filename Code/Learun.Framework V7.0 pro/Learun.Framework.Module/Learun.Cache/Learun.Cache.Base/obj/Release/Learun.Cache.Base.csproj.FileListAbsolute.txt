@@ -1,0 +1,5 @@
+D:\project\LR\力软敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Cache\Learun.Cache.Base\bin\Release\Learun.Cache.Base.dll
+D:\project\LR\力软敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Cache\Learun.Cache.Base\bin\Release\Learun.Cache.Base.pdb
+D:\project\LR\力软敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Cache\Learun.Cache.Base\obj\Release\Learun.Cache.Base.csproj.CoreCompileInputs.cache
+D:\project\LR\力软敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Cache\Learun.Cache.Base\obj\Release\Learun.Cache.Base.dll
+D:\project\LR\力软敏捷开发框架专业版7.0\Code\Learun.Framework V7.0 pro\Learun.Framework.Module\Learun.Cache\Learun.Cache.Base\obj\Release\Learun.Cache.Base.pdb
